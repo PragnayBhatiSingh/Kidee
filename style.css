@@ -1,0 +1,13 @@
+body{
+    background-color:gold;
+    font-family: 'Rye' , cursive;
+}
+
+button{
+    width:200px;
+    height:200px;
+    border-radius: 15px;
+    background-color: red;
+    font-size:23px;
+    margin-left:20px;
+}
